@@ -1,6 +1,6 @@
 **Folder structure **
 
-Flask App/
+flaskApp/
 │
 ├── templates/
 │   └── index.html
